@@ -1,5 +1,7 @@
 # Guide to Staying Productive
 
+> This is currently just an outline, I'll be working on content over the days, weeks, and years to come! Contributions of any kind would be warmly appreciated!
+
 * [Preamble](#preamble)
 * [Inside out](#inside-out)
   - [Begin with the end in mind](#begin-with-the-end-in-mind)
@@ -14,7 +16,7 @@
   - [Other guides](#other-guides)
   - [Author](#author)
   - [License](#license)
-
+  
 <br>
 <br>
 <br>
