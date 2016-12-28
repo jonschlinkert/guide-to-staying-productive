@@ -35,17 +35,23 @@ You might also be interested in [other guides I've written](#other-guides). Than
 
 ### What is this about?
 
-Over the years I've found that there is no magic bullet for being productive. 
+The first thing about being productive is undestanding what it means. Staying "busy" doesn't mean you're staying productive. The word "product" is at the root of the word productive, which is a synonym for "result". That's what we're after, results.
+
+Over the years I've found that there is no magic bullet for being productive, and there are many things that prevent productivity, including:
 
 - perfectionism
 - stalling
+- lack of interest
 - unsure about approach, tools or how others will react
 - fear of being wrong
 - fear of being right
+- fear of success
+- fear of failure
+- fear of the unknown
 - getting overwhelmed by options, the size or scope of project or the tasks at hand
 - over-complicating an otherwise simple decision
 
-TODO
+TBC
 
 ### Why should I take your word for it?
 
@@ -55,7 +61,6 @@ A little about me:
 - I've failed a company
 - I've given speeches for Congressmen
 - I have many long-lasting relationships (I've been the best man in 12 weddings)
-
 
 
 <br>
