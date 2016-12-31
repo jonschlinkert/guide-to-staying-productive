@@ -6,6 +6,7 @@
 * [What is this about?](#what-is-this-about)
 * [Inside out](#inside-out)
   - [Begin with the end in mind](#begin-with-the-end-in-mind)
+  - [Dealing with distractions](#dealing-with-distractions)
 * [Outside in](#outside-in)
 * [General specifics](#general-specifics)
 * Perspective
@@ -56,9 +57,13 @@ TBC...
 
 ### What is this about?
 
-The first thing about being productive is undestanding what it means. Staying "busy" doesn't mean you're staying productive. The word "product" is at the root of the word productive, which is a synonym for "result". That's what we're after, results.
+The first thing about being productive is acknowledging what "productive" really means. Staying "busy" doesn't mean you're staying productive. The word "product" is at the root of the word productive, which is a synonym for "result". That's what we're after, results.
 
-Over the years I've found that there is no magic bullet for being productive, but there are many things that prevent productivity, including:
+## Inside out
+
+TODO (Work on yourself and your habits...)
+
+Over the years I've found that there is no silver bullet for being productive, but there are many things that prevent productivity, including:
 
 - perfectionism
 - stalling
@@ -72,62 +77,31 @@ Over the years I've found that there is no magic bullet for being productive, bu
 - getting overwhelmed by options, the size or scope of project or the tasks at hand
 - over-complicating an otherwise simple decision
 
-You'll never be at your best unless you find a way to neutralize these things, or anything else that is standing in your way. This, among other things, is what we'll discuss in this guide.
-
-## TODO
-
-- remind yourself why you're doing what you're doing. Do you have a family? Children? Personal goals or a mission you want to achieve? All of the above? If you can't find the movitivation for yourself, do it for a higher purpose.
-- find a reason, higher purpose or mission that transcends what you're doing today
-- stay focused on the "big rocks"
-- keep the "little rocks" ready to roll
-- timewasters
-- eliminate timewasters
-- tips and tools
-- law of diminishing returns
-- don't multi-task: multi-tasking is a farce, and it's the antithesis of focus.
-- make it personal - if you don't really enjoy what you do for a living, try to find a way to enjoy it. Spend a few hours a week learning new skills related to your profession, turn it into a hobby. Your enthusiasm will show to everyone you work with.
-- write down every idea - don't ignore ideas or tell yourself you'll come back to them later. You won't. Stop what you're doing and write it down, or scaffold it out. Then write notes about what you want to accomplish, file it away. Then, when you come back to it later you'll remember what you wanted to do and you'll have a good head start.   
-- paralysis by analysis: don't over-analyze everything to the point where nothing at all gets done. Sometimes it's best to take intermediate action, just to make progress, so you can come back to the job later and finish what you started.
-- set drop-dead dates: "I love deadlines. I like the whooshing sound they make as they fly by"
-- channel your curiousity: Don't compromise on your curiousity, instead learn how to leverage it. Sometimes researching new and better ways of accomplishing something can contribute to procrastinating, either because it calls your current approach or decisions into question, or it opens new possibilities that you'd rather explore (which might also necessitate learning new tools or skills), or it's just a reason to be distracted. I personally think looking for better ways of accomplishing goals is of paramount importance. It's how we get better, and faster. Rather than curbing your curiousity completely, learn how to channel it. Learn how to say, "okay, I see there is a better way to do this thing I'm going. I'll try that on the next project or when I have some free time to explore. But for now, I need to stay focused."
-- avoid the "Jam Jam": https://hbr.org/2006/06/more-isnt-always-better
-- when you can't possibly accomplish everything, only do the most important things
-- don't be a perfectionist 
-- keep moving - just pick your best available option and move on
-- discard baggage - we've all had bad experiences with past decisions, collaborations, or projects. These things make you who you are, they make you wiser and should help you make better decisions in the future. But they can also prevent you from making progress if you're overly self-conscious about them. So listen to your gut, but "get over it" and keep your baggage at bay.
-- glass is half-full
-- set time limits
-- ask for feedback or advice
-- write a plan
-- write an outline
-- take breaks
-- ignore things you can't do
-- avoid meetings at all cost
-- avoid the energy Dementors/Wraiths in your life. people who are always negative or complaining about something (this is my personal #1)
-
-- lists to write
-  * ideas
-  * todos
-  * don't dos
-
-## Inside out
-
-> Begin channeling Stephen Covey
-
-- don't let indecision stop you from doing anything at all
-- don't sit on your hands
-- don't spin your wheels
-- when you hit a roadblock with a project you're working on, switch gears
-- take notes, write down your ideas as soon as you have them. 
-- learn the skills and create the good habits necessary for being productive:
-  * note taking
-  * organizing information
-  * invest time in learning tools that make you faster
-  * invest time in creating tools that make you faster
+You'll never be at your best unless you find a way to neutralize these things, or anything else that is standing in your way. This, among other things, is what we'll discuss in this section.
 
 ### Begin with the end in mind
 
+> Begin channeling Stephen Covey
+
 TODO
+
+### Dealing with distractions
+
+- timewasters
+- curiousity
+- noise
+- other distractions
+
+**Channeling your curiosity**
+
+Many productivity "experts" recommend that you get rid of this impulse. In my experience this is a bad idea. Don't compromise on your curiousity, instead learn how to leverage it. 
+
+Sometimes researching new and better ways of accomplishing something can contribute to procrastinating, either because it calls your current approach or decisions into question, or it opens new possibilities that you'd rather explore (which might also necessitate learning new tools or skills), or it's just a reason to be distracted. I personally think looking for better ways of accomplishing goals is of paramount importance. It's how we get better, and faster. Rather than curbing your curiousity completely, learn how to channel it. Learn how to say, "okay, I see there is a better way to do this thing I'm going. I'll try that on the next project or when I have some free time to explore. But for now, I need to stay focused."
+
+**Noise sensitivity**
+
+TODO...
+
 
 ### Put first things first
 
@@ -135,27 +109,35 @@ TODO
 
 ### One bite at a time
 
-TODO
+I like this section because it touches on two completely unrelated things that tend to cause me to lose productivity sometimes:
+
+- going too long without eating
+- procrastinating because I feel overwhelmed
+
+In both cases, we can benefit by tackling the problem... ahem, one _bite_ at a time. (I'm sorry I couldn't help myself.)
+
+**Feeling hungry**
+
+For some folks, this isn't too much of a problem. But if you're hypoglycemic (like myself), it's really important to eat often enough to keep your brain functioning at an optimal state. 
+
+TBC...
+
+**Feeling overwhelmed**
+
+If you're feeling overwhelmed:
+
+- figure out how to break your task into smaller chunks. 
+- ask yourself, "what would make this easier to accomplish?". Is there a tool you can build that will speed up the job? Sometimes taking one step back will thrust you ten steps forward.
 
 ### Hack at the root
 
+> "For every thousand hacking at the leaves of evil, there is one hacking at the root" — Henry David Thoreau
+
 TODO
-
-Ask yourself:
-
-- "what is causing me to procrastinate?"
-- "what would make this task easier to accomplish?"
-- "what are the biggest challenges I face every day?"
-- "what are the biggest barriers to achieving X?"
-- "if I was to achieve X, what would be possible next?"
-- "what tradeoffs need to be made to accomplish X?"
-- "do I know what I want to achieve?"
-- "is what I’m doing getting me closer to what I want to achieve?"
 
 ### Problems are opportunties in disguise
 
 TODO
-
 
 <br>
 <br>
@@ -168,7 +150,7 @@ TODO
 
 ## Outside in
 
-When faced with external pressure to make decisions...
+TODO (Tools, resources...)
 
 TODO
 
@@ -201,31 +183,21 @@ TODO: Specific tips for maintainers and programmers.
 - generators
 - automate
 - documentation
-
 - github issue templates
-- update
-- verb
-
+- [update](https://github.com/update)
 
 ## Timewasters
 
 - 
 
 
-### Absolutely no absolutes
+### Absolutely no absolutes!
 
 > Always do this, never do that!
 
 You might have noticed that humans tend to be pretty opinionated. This seems to be particularly transparent in the programming and design worlds, given the tools and technology available to the trade, along with the myriad conventions and standards. 
 
-It's important to stick to your proverbial guns when dealing with something that is 
-
-Whenever possible, try not to 
-
-- don't draw hard lines
-- be flexible
-- be open to suggestions
-
+TODO...
 
 <br>
 <br>
