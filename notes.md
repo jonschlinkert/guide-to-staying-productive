@@ -5,7 +5,6 @@ This is just my personal notes for writing this guide. Here is how I use these n
 - I write down ideas when I think of them
 - When inspiration strikes and I write a section in the guide, these bullets often make it easier to complete my thoughts or round out the section
 
-
 **Topics**
 
 - remind yourself why you're doing what you're doing. Do you have a family? Children? Personal goals or a mission you want to achieve? All of the above? If you can't find the movitivation for yourself, do it for a higher purpose.
