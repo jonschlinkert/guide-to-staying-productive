@@ -3,6 +3,7 @@
 > This is currently just an outline, I'll be working on content over the days, weeks, and years to come! Contributions of any kind would be warmly appreciated!
 
 * [Preamble](#preamble)
+* [What is this about?](#what-is-this-about)
 * [Inside out](#inside-out)
   - [Begin with the end in mind](#begin-with-the-end-in-mind)
 * [Outside in](#outside-in)
@@ -29,9 +30,29 @@
 
 This brief guide was written by me, [Jon Schlinkert](#author). Currently I'm a programmer, public speaker and author of more than 1,300 code projects that collectively they receive more than [380 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002), most of which are JavaScript. I also have years of experience as an entrepreneur and business consultant. 
 
+### Why should I take your word for it?
+
 This guide is a distillation of my experience as a human and professional. If you find this useful (and I hope you do!), please consider following me on [github](https://github.com/jonschlinkert) or [twitter](http://twitter.com/jonschlinkert) to receive updates about this and other projects I maintain. If you'd like to get in touch regarding a speaking engagement or consulting opportunity, please use the email address on my GitHub profile. You can find my [bio here](../../../bio). 
 
 You might also be interested in [other guides I've written](#other-guides). Thanks for reading!
+
+A little about me:
+
+- I've sold a company
+- I've failed a company
+- I've given speeches for Congressmen
+- I've been hired to turn companies around
+- I have many long-lasting relationships (I've been the best man in 12 weddings)
+
+TBC...
+
+<br>
+<br>
+<br>
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+<br>
+<br>
+<br>
 
 ### What is this about?
 
@@ -52,26 +73,6 @@ Over the years I've found that there is no magic bullet for being productive, bu
 - over-complicating an otherwise simple decision
 
 You'll never be at your best unless you find a way to neutralize these things, or anything else that is standing in your way. This, among other things, is what we'll discuss in this guide.
-
-TBC...
-
-### Why should I take your word for it?
-
-A little about me:
-
-- I've sold a company
-- I've failed a company
-- I've given speeches for Congressmen
-- I have many long-lasting relationships (I've been the best man in 12 weddings)
-
-
-<br>
-<br>
-<br>
-![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
-<br>
-<br>
-<br>
 
 ## TODO
 
