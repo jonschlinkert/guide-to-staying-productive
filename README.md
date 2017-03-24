@@ -20,7 +20,9 @@
 <br>
 <br>
 <br>
+
 ![separator][sep]
+
 <br>
 <br>
 <br>
@@ -43,7 +45,7 @@ A little about me:
 - **As a public speaker**, I've guest lectured a number of times at several universities on the topics such as "supply chain automation", and "ebusiness and the virtual value chain", and I've given speeches for Congressmen and Fortune 500 companies about entrepreneurship and productivity.
 - **As a business consultant**, I've been hired by companies to design sales, marketing, monetization and go-to-market strategies. I've been hired by Boards to turn companies around.
 - **As a sales professional**, I've closed many hundreds of deals across a number of different industries, spanning from a $16m software deal to a $6m safety uniform contract. I've also managed call centers with 300 customer service reps.
-- **As a software programmer**, I've authored more than 1,300 code projects that collectively they receive more than [380 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). 
+- **As a software programmer**, I've authored more than 1,300 code projects that collectively they receive more than [480 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). 
 - **As a human**, I've been married for 8 years to my best friend (my wife and I were friends for 8 years before we married). We now have two beautiful girls who constantly redefine what "important" means in my life. I've also been the best man in 12 weddings. 
 
 Regarding the last bullet, you in case you're wondering, "what does that have to do with productivity?!". That depends on how much you value "things" versus "people". To me, this means that I have learned how to be hyper-productive without compromising on the many long-lasting relationships I have with the important people in my life, which is my most important guage of success.
@@ -55,7 +57,9 @@ What works for me or others might not work for you. My hope is that if you share
 <br>
 <br>
 <br>
+
 ![separator][sep]
+
 <br>
 <br>
 <br>
@@ -262,7 +266,9 @@ TBD...
 <br>
 <br>
 <br>
+
 ![separator][sep]
+
 <br>
 <br>
 <br>
@@ -284,7 +290,9 @@ TODO
 <br>
 <br>
 <br>
+
 ![separator][sep]
+
 <br>
 <br>
 <br>
@@ -329,7 +337,9 @@ TODO...
 <br>
 <br>
 <br>
+
 ![separator][sep]
+
 <br>
 <br>
 <br>
@@ -373,4 +383,5 @@ Copyright © 2016, [Jon Schlinkert](https://github.com/jonschlinkert).
 Released under the [CC by 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 [maslow]: https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs#Self-actualization
+
 [sep]: https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png
