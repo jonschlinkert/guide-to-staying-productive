@@ -162,7 +162,7 @@ As a starting point, establishing meaningful frames-of-reference will give you t
 Orders of magnitude...
 
 - the forest: The "big picture", viewed through the lens of the most important, long-term goals in your life. These things would likely go in the _self-actualization_ of [Maslow's hierchy of needs][maslow].   
-- the trees: The near-tearm projects that we're responsible for accomplishing at work or home. Someone is expecting us to complete
+- the trees: The near-term projects that we're responsible for accomplishing at work or home. Someone is expecting us to complete
 - the weeds: the pressing, in-the-moment tasks that need to be accomplished before you call it a day.
 
 ### How long do we have to accomplish our goals?
